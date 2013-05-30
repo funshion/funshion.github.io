@@ -1,3 +1,6 @@
+---
+layout: nil
+---
 <!doctype html>
 <html>
   <head>
@@ -37,7 +40,16 @@
 
 <p>Funshion R&amp;D department GitHub site</p>
 
-<p>Funshion ToastMasters "movies" Club</p>
+<p><a href="http://funshion.github.io/toastmasters/club">Funshion ToastMasters "movies" Club</a></p>
+
+  <h1>Blog</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></small></p>

@@ -1,5 +1,5 @@
 ---
-layout: eclipse-china
+layout: funshion
 title: Funshion ToastMasters "mobies" Club
 ---
 

@@ -9,6 +9,8 @@ title: Funshion ToastMasters "movies" Club
 
 [Clubs in Beijing](http://reports.toastmasters.org/findaclub/searchresults.cfm?Country=China&State=&City=Beijing)
 
+Toastmasters is club\interest organization for sharing how to be leader and speak publicly (in English). 
+Toastmasters is not an English school. You should have good enough English to join all-English meetings
 
 ## Setting up
 

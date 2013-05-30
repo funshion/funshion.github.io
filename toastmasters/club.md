@@ -3,6 +3,13 @@ layout: funshion
 title: Funshion ToastMasters "movies" Club
 ---
 
+## Toastmasters
+
+[Toastmasters International official site](http://www.toastmasters.org/)
+
+[Clubs in Beijing](http://reports.toastmasters.org/findaclub/searchresults.cfm?Country=China&State=&City=Beijing)
+
+
 ## Setting up
 
 吴启蒙Wesley is founder of founder of Beihang Toastmasters Club.

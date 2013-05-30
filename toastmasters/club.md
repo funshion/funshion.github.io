@@ -12,7 +12,7 @@ title: Funshion ToastMasters "movies" Club
 
 ## Setting up
 
-吴启蒙Wesley is founder of founder of Beihang Toastmasters Club.
+吴启蒙Wesley is founder of Beihang Toastmasters Club.
 So he can guide us through setting up new club in Funshion.
 
 Links.
